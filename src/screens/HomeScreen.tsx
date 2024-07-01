@@ -1,14 +1,15 @@
 import React from 'react';
-import {Image, Text, View} from "react-native";
+import {Text, View} from "react-native";
 import {styles} from "./styles";
-import {MyTextInput} from "../components/MyTextInput";
 import {MyButton} from "../components/MyButton";
+import {useNavigation} from "@react-navigation/native";
 
 export function HomeScreen() {
+    const navigation = useNavigation();
     return (
         <View style={[styles.container]}>
             <Text style={[styles.title]}>Essa tela só pode ser vista por usuários autenticados.</Text>
-            <MyButton title='Ir para Configurações' />
+            <MyButton onPress={() => navigation.navigate("Settings")} title='Ir para Configurações' />
             <Text>
                 by<Text style={[styles.coffText]}>CoffStack</Text>
             </Text>

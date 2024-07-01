@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71f4a23e-9dc7-49d2-bf67-0c93e7403a01" name="Changes" comment="" />
+    <list default="true" id="71f4a23e-9dc7-49d2-bf67-0c93e7403a01" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/screens/SettingsScreen.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/AppStack.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/AppStack.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/HomeScreen.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/HomeScreen.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/styles.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/styles.ts" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,10 +25,13 @@
       </list>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 7
-}]]></component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2iZY74dPVUtH8bPB9TJhCXx6tSi" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -29,7 +40,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/jpcadinelli/repositorios/auth-flow-react-native/src/assets",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/jpcadinelli/repositorios/auth-flow-react-native/src/screens",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -41,9 +53,13 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/screens" />
       <recent name="$PROJECT_DIR$/src/assets" />
       <recent name="$PROJECT_DIR$/src/components" />
       <recent name="$PROJECT_DIR$/src/routes" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -61,7 +77,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1719699395228</updated>
-      <workItem from="1719699396258" duration="7817000" />
+      <workItem from="1719699396258" duration="8125000" />
+      <workItem from="1719876243652" duration="1445000" />
     </task>
     <servers />
   </component>
