@@ -1,5 +1,5 @@
 import React from 'react';
-import {Image, Text, View} from "react-native";
+import {Text, View} from "react-native";
 import {styles} from "./styles";
 import {MyButton} from "../components/MyButton";
 import {useAuth} from "../contexts/Auth";

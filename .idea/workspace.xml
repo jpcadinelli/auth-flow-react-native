@@ -4,14 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71f4a23e-9dc7-49d2-bf67-0c93e7403a01" name="Changes" comment="feat: adição da tela de configuração">
-      <change afterPath="$PROJECT_DIR$/src/contexts/Auth.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/services/authService.ts" afterDir="false" />
+    <list default="true" id="71f4a23e-9dc7-49d2-bf67-0c93e7403a01" name="Changes" comment="feat: informações para login mocadas senha padrão 123456">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/contexts/Auth.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/contexts/Auth.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/routes/Router.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/Router.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/HomeScreen.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/HomeScreen.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/screens/SettingsScreen.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/SettingsScreen.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/screens/SignInScreen.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/SignInScreen.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +53,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
+    "js.last.introduce.type": "LET",
     "last_opened_file_path": "/home/jpcadinelli/repositorios/auth-flow-react-native/src/screens",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -90,7 +91,7 @@
       <option name="presentableId" value="Default" />
       <updated>1719699395228</updated>
       <workItem from="1719699396258" duration="8125000" />
-      <workItem from="1719876243652" duration="4712000" />
+      <workItem from="1719876243652" duration="6701000" />
     </task>
     <task id="LOCAL-00001" summary="feat: adição da tela de configuração">
       <option name="closed" value="true" />
@@ -100,7 +101,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719877806407</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="feat: informações para login mocadas senha padrão 123456">
+      <option name="closed" value="true" />
+      <created>1719881056270</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1719881056270</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,6 +117,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat: adição da tela de configuração" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: adição da tela de configuração" />
+    <MESSAGE value="feat: informações para login mocadas senha padrão 123456" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: informações para login mocadas senha padrão 123456" />
   </component>
 </project>
