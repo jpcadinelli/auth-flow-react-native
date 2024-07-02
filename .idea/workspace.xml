@@ -4,14 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71f4a23e-9dc7-49d2-bf67-0c93e7403a01" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/screens/SettingsScreen.tsx" afterDir="false" />
+    <list default="true" id="71f4a23e-9dc7-49d2-bf67-0c93e7403a01" name="Changes" comment="feat: adição da tela de configuração">
+      <change afterPath="$PROJECT_DIR$/src/contexts/Auth.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/authService.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/routes/AppStack.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/AppStack.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/screens/HomeScreen.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/HomeScreen.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/screens/styles.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/styles.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/Router.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/Router.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/SettingsScreen.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/SettingsScreen.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/SignInScreen.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/SignInScreen.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +28,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "jpcadinelli"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/jpcadinelli/auth-flow-react-native.git",
+    "accountId": "90b125ed-432f-4ed6-ba59-14aec991f874"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 7
@@ -78,11 +90,24 @@
       <option name="presentableId" value="Default" />
       <updated>1719699395228</updated>
       <workItem from="1719699396258" duration="8125000" />
-      <workItem from="1719876243652" duration="1445000" />
+      <workItem from="1719876243652" duration="4712000" />
     </task>
+    <task id="LOCAL-00001" summary="feat: adição da tela de configuração">
+      <option name="closed" value="true" />
+      <created>1719877806407</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719877806407</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: adição da tela de configuração" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: adição da tela de configuração" />
   </component>
 </project>
